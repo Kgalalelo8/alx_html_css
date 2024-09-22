@@ -1,0 +1,1 @@
+Welcome to smile School, an engaging platform designed to teach the art of smiling! Here you can learn the science and techniques behind a genuine smile workshops, and track your smile progress. Whether you want to enhance your confidence, create a welcoming presence, or simply brighten someone's day, Smile School is the perfect place to begin your journey!
