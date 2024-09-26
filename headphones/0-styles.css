@@ -1,0 +1,35 @@
+nav a{color: #fcfafa;
+text-decoration: none;
+margin-left: 10px;
+}
+nav{display: flex;
+}
+.lorem{color: white;
+font-size: 20px;
+place-items: center;
+border: 10px;
+max-width: 500px;
+margin: auto;
+height: 50vh;
+display: flex;
+align-items: center;
+}
+.btn{
+padding: 10px 22px;
+border-radius: 10px;
+background-color: #FF6565;
+color:white;
+border: none;
+max-width: 300px;
+margin: auto;
+height: 5vh;
+display:flex;
+align-items: center;
+
+
+
+}
+main{
+border: 10px;
+height: 90vh;
+}
