@@ -24,12 +24,35 @@ max-width: 300px;
 margin: auto;
 height: 5vh;
 display:flex;
-align-items: center;
-
-
-
-}
+align-items: center;    }
 main{
 border: 10px;
 height: 90vh;
 }
+.Container{width:1340px ;
+height: 600px;
+background-size: cover;
+background-image: url(headphones_hero_1.jpg);
+}
+.Container1{text-align: center ;}
+.div2{float:right;
+}
+.div3{float:right;}
+.div1{float:right;}
+.ourresults{background-image: url(headphones_hero_2.jpg);
+height:100vh;
+}  
+.pent1{height: 150px;}
+  .pent2{height: 150px;
+}   
+    .pent3{height: 150px; 
+}    
+    .pent4{height: 150px;}    
+.pentas{display: flex;
+justify-content: center;
+}
+
+.our{display: flex;
+justify-content: center;}     
+footer{background-color: rgb(5, 5, 10)}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ;}
+

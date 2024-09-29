@@ -1,0 +1,11 @@
+main{background-image: url(headphones_hero_1.jpg);
+height :100vh;}
+.pent1{height: 150px;}
+  .pent2{height: 150px;
+}   
+    .pent3{height: 150px;
+}    
+    .pent4{height: 150px;}    
+.pentas{display: flex;
+justify-content: center;
+}
