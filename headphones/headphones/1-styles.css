@@ -1,0 +1,7 @@
+header h1 {text-align: center;}
+.paragraph{text-align: center;
+
+}
+.wrapper{display:flex;
+justity-content: center;
+float: right;}
